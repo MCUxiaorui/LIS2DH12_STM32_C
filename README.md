@@ -1,5 +1,5 @@
 # LIS2DH12_STM32_C
-## To Implement LIS2HD12 into STM32 Project, the following can be followed to allow FIFO readout of accelerometer data.
+## Implemented based on ST's example code.
 
 ```c
 /**
